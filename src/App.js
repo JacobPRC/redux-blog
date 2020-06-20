@@ -5,7 +5,7 @@ import PostList from "./components/PostList";
 const App = () => {
   return (
     <div className="ui container">
-      <p>Hello World!</p>
+      <h1>Hello World Blog!</h1>
       <PostList />
     </div>
   );
